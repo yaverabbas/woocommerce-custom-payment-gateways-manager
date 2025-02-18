@@ -86,6 +86,8 @@ This project is licensed under the [GPL-2.0-or-later](https://www.gnu.org/licens
 **Yaver Abbas**
 - GitHub: [@yaverabbas](https://github.com/yaverabbas)
 - LinkedIn: [Yaver Abbas](https://www.linkedin.com/in/yawarak/)
+- Upwork: [Yaver Abbas](https://www.upwork.com/freelancers/yaver)
+- Website: [Yaaver Abbas Web Developer](https://yaaver.com)
 
 ---
 
