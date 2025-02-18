@@ -1,0 +1,13 @@
+woocommerce-custom-payment-gateways-manager/
+├── assets/
+│   ├── css/
+│   │   └── admin.css
+│   └── js/
+│       └── admin.js
+├── src/
+│   ├── Admin/
+│   │   └── PaymentGatewaysManager.php
+│   ├── Frontend/
+│   │   └── CustomPaymentGateway.php
+│   └── Plugin.php
+└── woocommerce-custom-payment-gateways-manager.php

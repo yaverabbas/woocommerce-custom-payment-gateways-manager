@@ -1,0 +1,5 @@
+/* Basic styling for Payment Gateways Manager admin page */
+.wc-cpgm-row input[type="text"],
+.wc-cpgm-row textarea {
+    width: 100%;
+}
